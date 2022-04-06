@@ -1,14 +1,14 @@
-background-color: {
-
+*{
+  background-color: rgb(11, 162, 212);
 }
     
-
-    
-* {
-  box-sizing: ;
+.countingtimer {
+width: 300px
+background-color: #ffff;
+border-radius: 5px;
+padding: 15px;
 }
 
-.d-flex {
-  display: ;
+.controls {
+  display: flex;
 }
-
